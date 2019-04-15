@@ -16,7 +16,6 @@ after_success: |
   zola build &&
   sudo pip install ghp-import &&
   ghp-import --no-jekyll \
-            --cname=matthias-endler.de \
             --message="New release!" \
             --branch=master \
             public

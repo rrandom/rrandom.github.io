@@ -1,0 +1,57 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://rrandom.github.io/some-article/</loc>
+            
+                <lastmod>2017-09-24</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/tags/other/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/tags/rust/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/categories/hello-world/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/categories/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/tags/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/tags/ssg/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/some-other-article/</loc>
+            
+                <lastmod>2017-09-25</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://rrandom.github.io/page/1/</loc>
+            
+        </url>
+    
+</urlset>
